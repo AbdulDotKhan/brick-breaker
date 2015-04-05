@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="libs/swt-debug.jar"/>
+	<classpathentry kind="lib" path="libs/swt.jar"/>
+	<classpathentry kind="lib" path="libs/org.eclipse.jface.jar"/>
+	<classpathentry kind="lib" path="libs/org.eclipse.core.resources.spysupport_1.4.0.200607141315.jar"/>
+	<classpathentry kind="lib" path="libs/org.eclipse.core.tools_1.4.0.200607141315.jar"/>
+	<classpathentry kind="lib" path="libs/org.eclipse.core.tools.resources_1.4.0.200607141315.jar"/>
+	<classpathentry kind="lib" path="libs/org.eclipse.equinox.common.jar"/>
+	<classpathentry kind="lib" path="libs/org.eclipse.core.commands.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
